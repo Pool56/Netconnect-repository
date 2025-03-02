@@ -16,7 +16,7 @@ Knowledge of python programming language is required
 
 # Contribution guidelines
 # License
-
+Copyright © 2023 IBM. This descriptive text  and its source code are released under the terms of the ILAN License
 # Contact
 rokario@students.uonbi.ac.ke
 rokoriojohn367@gmail.com
