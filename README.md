@@ -365,4 +365,27 @@ curl "https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29
 	"project_id": "5c765120-8502-47b0-ba0c-6855b446016f"
 }'
 
+# About the project
+The project relates to track 3 which is about  optimizing resource allocation
+We are optimizing resource allocation by integration  open-source especially python and MySQL with  AI technologies from IBM Cloud and Huawei Cloud.
+We are optimizing public sector networks by creation of an intelligent assistant that monitors telecommunication devices with regard to signal strength, bandwidth, speed and reliability.
+For asset utilization analytics i am using Cognos analytics so as to  identify dormant or underused infrastructure with AI-driven tools. The AI driven tools provide narrative insights based on data uploaded in the form of excel sheets. Performance of the telecommunication infrastructure needs to be summarised into an excel document
+For last mile enhancement the project seeks to optimize factors such as signal strength, speed, bandwidth and reliability through using a computational inteface from Huawei called trigger that analyses the factors so as to determine how to make informed decisions. where basic infrastructure is already in place. The project also uses an AI application called Watsonx.ai to train models and create python applications by generation of customised code.
+For service Resilience the project develops solutions that sustain network performance  under typical constraints by integration of Internet of Things (IoT) with open source technologies. The purpose is to connect WI-FI with IoT through programs such as python which ensures that the IoT has relevant code that could sustain network performance in  rural and remote areas, including extreme or variable local conditions.
+The project also has code generation and code explanation which ensures that people in rural regions are able tounderstand what is being programed.
+The real world value of the project is that it streamlines data for telecommunication systems which seeks to ensure reliable connectivity of the internet
+The creativeness of this project  is using AI applications such as Watsonx.ai then using  codes from AI applications (that illustrate how the responses was made) then placing them into an open source system such as python 
+
+# Development  requirements
+Knowledge of python programming language is required
+
+# Dev installation guidelines
+
+# Contribution guidelines
+# License
+
+# Contact
+rokario@students.uonbi.ac.ke
+rokoriojohn367@gmail.com
+
 
